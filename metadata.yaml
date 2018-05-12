@@ -1,0 +1,40 @@
+_repo: Napol-onLa-derni-re-phase_36352
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Filon, Augustin
+    alias: Filon, Pierre Marie Augustin
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '38226'
+    url: http://www.gutenberg.org/2009/agents/38226
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosebery, Archibald Philip Primrose, Earl of
+    aliases:
+    - Primrose, Archibald Philip, Earl of Rosebery
+    - Rosebery, Lord
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '39482'
+    url: http://www.gutenberg.org/2009/agents/39482
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36352'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcc 'DC'
+title: 'Napoléon: La dernière phase'
+url: http://www.gutenberg.org/ebooks/36352
